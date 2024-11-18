@@ -133,7 +133,7 @@ sticker==0.0.5
 sympy==1.13.1
 tensorboard==2.17.0
 tensorboard-data-server==0.7.2
-tensorflow==2.17.0
+tensorflow==2.18.0
 tensorflow-intel==2.18.0
 tensorflow-io-gcs-filesystem==0.31.0
 tensorflow-serving-api==2.5.0
